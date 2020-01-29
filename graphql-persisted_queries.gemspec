@@ -29,4 +29,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rubocop", "0.75"
   spec.add_development_dependency "redis"
   spec.add_development_dependency "connection_pool"
+  spec.add_development_dependency "appraisal"
 end

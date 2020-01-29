@@ -9,10 +9,10 @@ rvm:
   - ruby-head
 
 gemfile:
-  - gemfiles/graphql_1_8.gemfile
-  - gemfiles/graphql_1_9.gemfile
+  - gemfiles/graphql_1.8.gemfile
+  - gemfiles/graphql_1.9.gemfile
+  - gemfiles/graphql_1.10.gemfile
   - gemfiles/graphql_master.gemfile
-
 
 notifications:
   email: false
